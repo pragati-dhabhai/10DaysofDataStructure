@@ -1,3 +1,4 @@
+#ALL four tasks
 class Stack:
     def __init__(self,limit=1000):
         self.top_item=None
@@ -44,12 +45,7 @@ class Node:
     def set_next_node(self, next):
 	    self.next = next
     
-s=Stack()
-s.push('A')
-print(s.peek())
-s.pop()
-print(s.peek())
-
+#Final Task
 
         
         
