@@ -48,7 +48,7 @@ s=Stack()
 s.push('A')
 print(s.peek())
 s.pop()
-#print(s.peek())
+print(s.peek())
 
 
         
